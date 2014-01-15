@@ -1,0 +1,280 @@
+* 词
+** 介词
+介词（The Preposition）又叫做前置词，通常置于名词之前。它是一种虚词，
+不需要重读，在句中不单独作任何句子成分，只表示其后的名词或相当于名词的
+词语与其他句子成分的关系。
+
+表示句子间各成分的关系
+She is behind me.(表示空间关系)
+关系如下:
+{1} 表地点（包括动向）的介词。如： About ,above, across, after, along , among, around , at, before, behind, below, beneath, beside, between , beyond ,by, down, from, in, into , near, off, on, over, through, throught, to, towards,, under, up, unpon, with, within , without 等。
+{2} 表时间的介词。如： About, after, around , as , at, before , behind , between , by, during, for, from, in, into, of, on, over, past, since, through, throughout, till(until) , to, towards , within 等。
+{3} 表除去的介词。如： beside , but, except等。
+{4} 表比较的介词。如： As, like, above, over等。
+{5} 表反对的介词。如： againt ,with 等。
+{6} 表原因、目的的介词。如： for, with, from 等。
+{7} 表结果的介词。如： to, with , without 等。
+{8} 表手段、方式的介词。如： by, in ,with 等。
+{9} 表所属的介词。如： of , with 等。
+{10} 表条件的介词。如： on, without , considering 等。
+{11} 表让步的介词。如： despite, in spite notwithstanding等。
+{12} 表关于的介词。如： About, concerning, regarding ,with regard to, as for , as to
+{13} 表对于的介词。如： to, for over , at , with 等。
+{14} 表根据的介词。如： on, according to 等。
+{15} 表其他的介词。如： for(赞成)，without（没有）等。
+** 连词
+1. 并列连词
+并列连词（Coordinating Conjunctions）是指用来连接彼此是并列关系的词、
+短语、从句或句子的词，被连接的两个部分彼此是独立的，在句法上是平等的。
+
+| 类别         | 例子                                                    |
+|--------------+---------------------------------------------------------|
+| 表示并列关系 | and as well as bot...and not only,but also neithe...nor |
+| 表示选择关系 | or or else either...nor                                 |
+| 表示转折关系 | but yet while whereas                                   |
+| 表示因果关系 | for so                                                  |
+2. 从属连词
+从属连词用来引导名词从句和各类的状语从句。
+从属连词按词形分为简单从属连词，复合从属连词，关连从属连词。
+1) 简单从属连词
+常见的有：after, although, as, because, before, if, lest,once, since, that, till, unless, until, when, where, whether, while 等。例如：
+2) 复合从属连词
+由两个或两个以上单词构成的从属连词，如： as if, as far as , as soon as, according as , in case , no matter who(how,what,when, where), rather than, for all that , given( that), in order that, now (that), on condition that , (so) that ,provided/providing(that), inasmuch as , insofar as 等。
+3) 关联从属连词 由两个关联构成的，如： as...as, nore(less,-er)...than, no sooner...than, so ...as , so...that,such...sa , the...the, whether...or 等，
+使用从属连词时，应该注意
+(1) 由从属连词引导的状语从句，其位置通常是可变的。
+(2) 并列连词之间之前不可以加其它连词，而从属连词之前可以加并列连词；连
+接副词。
+** 数词
+属于名词的范畴
+** 名词
+名词也可以修饰名词
+**** 动名词
+****
+* 句子(从句子结构本身看)
+** 简单句
+ | 主语部分     | 谓语部分   |          |          |             |               |
+ |--------------+------------+----------+----------+-------------+---------------|
+ | (1) 主语     | (2) 动词   | (3) 宾语 |          | (4) 状语    |               |
+ |              |            |          | 方式     | 地点        | 时间          |
+ |--------------+------------+----------+----------+-------------+---------------|
+ | I            | bought     | a hat    |          |             | yesterday     |
+ |--------------+------------+----------+----------+-------------+---------------|
+ | The children | ran        |          |          | home        |               |
+ |--------------+------------+----------+----------+-------------+---------------|
+ | The driver   | shouted at | me       | angrily  |             |               |
+ |--------------+------------+----------+----------+-------------+---------------|
+ | The car      | stopped    |          | suddenly |             |               |
+ |--------------+------------+----------+----------+-------------+---------------|
+ | Barbrara     | read       |          | quietly  | in her room | all afternoon |
+ |--------------+------------+----------+----------+-------------+---------------|
+另外还有：
+5)定语(attribute)它是限定或修饰名词或代词用的，如He likes to drink
+co1d milk(他喜欢喝冷牛奶)中的co1d。
+6)表语(predicative)它是放在连系动词之后表示主语的身分或特征的，如I am a
+student(我是一个学生)中的student；Our classroom is clean(我们的教室很
+干净)中的clean。
+
+状语(adverbial)它是修饰动词、形容词、副词用的，如He works hard(他努力工作)中的hard。
+连接代词是做名词来用的，是实词，在从句中做名词成分，可做主语和宾语。
+连接副词是作副词用的，是虚词，在从句中不做成分，而且位置不固定。
+
+连接代词: 对句子中的主语，宾语提问的疑问词。what,whatever,who,whoever,whom,whose,which.whichever,whomever
+连接副词：对句子中的状语提问的疑问词。
+when, where, why, how, whenever, wherever, however
+** 并列句
+由几个简单句连接而成，各个简单句独立存在。
+1. 分号连接，后面可以跟一个连接副词（短语）
+We fished all day; however, we didn't catch a fish.
+2. 并列连词连接，如and，but，so，yet等，前面常加逗号。
+We fished all day, but (we) didn't catch a fish.
+
+** 复合句
+由几个简单句连接而成，复合句的各个组成部分并非同等重要，主句往往可以独立存在
+*** 从句
+1. 从句和简单句中的每个成分一一对应。当简单句中包含了从句就变成了复合句。
+2. 在句子中做名词，形容词，状语，起到丰富简单句语义的作用。每个从句都和句子中的主谓对应。
+**** 名词性从句（Noun Clause）
+1. 在句子中起名词作用
+2. 可分为主语从句、表语从句、宾语从句、同位语从句和形容词补语从句。
+   （名词从句和名词作用相同，因此，可用作句子的主语、表语、宾语和介词
+   宾语等。）
+
+不管做什么成分，从句都是陈述句。
+1) 同位语从句和同位语一样
+|        | 主语                                                    | （介词）宾语                  | 同位语                                 | 形容词补语 | 表语        |
+|--------+---------------------------------------------------------+-------------------------------+----------------------------------------+------------+-------------|
+| 不同点 | 名词性关系代词what， whatever， whichever， whoever引导 | 同主语从句                    | 同位语从句有时不是紧跟在有关的名词后面 | 无         | as if等引导 |
+|        |                                                         |                               |                                        |            |             |
+|--------+---------------------------------------------------------+-------------------------------+----------------------------------------+------------+-------------|
+|        |                                                         | 可由if替换whether，但介宾不可 |                                        |            |             |
+
+相同点：
+1. 关系代词that引导
+2. 连接代词和连接副词以及连接词whether引导
+
+**** 定语从句（Attributive Clauses）
+1. 起到形容词的作用。
+2. 定语从句（Attributive Clauses）通常皆放在它所修饰的名、代词之后，这
+   种名、代词就叫做先行词。引导定语从句的关联词为关系代词和关系副词。
+
+从句放到修饰的名词，代词后，这和形容词的位置正好相反。
+定语从句和先行词可以构成完整的句子。
+和同位语比较，同位语从句是完整的，而定语从句需要和先行词组成完整的句子
+从句可以用什么疑问提问，就可以用那个词引导从句。
+
+1. 必须用关系代词that引导定语从句
+
+| 限定性定语从句                      | 非限定性定语从句                                 |
+|-------------------------------------+--------------------------------------------------|
+| 不能省略,如果省略整个句子意思不完整 | 可以省略,如果省略整个句子意思仍然完整            |
+| 可以用that 引导                     | 不可以用that 引导                                |
+| 关联词有时可以省略                  | 关联词不可以省略                                 |
+| 不用逗号把它和句子的其他部分隔开    | 用逗号把它和句子的其他部分隔开                   |
+| 只能修饰先行词                      | 可以修饰先行词，也可以修饰整个句子或句子的一部分 |
+|-------------------------------------+--------------------------------------------------|
+一般来说，限制性定语从句多半译成汉语的前置定语，修饰其后的先行词，非限
+制性定语从句则往往译成后置的并列从句。
+
+**** 状语从句（Adverbial Clauses）
+1. 状语作用
+2. 引导状语从句的是一些连词，它们的位置比较灵活，可以置于句首，也可以
+   置于句末。（和状语的位置一样）
+3. 状语从句指句子用作状语时，起副词作用的句子。它可以修饰谓语、非谓语
+   动词、定语、状语或整个句子。
+
+
+状语从句体现了从句和主句之间的逻辑关系，它具体可以分为9种：时间、地点、条件、让步、原因、结果、目的、比较和方式状语。
+状语从句 （Adverbial Clause） 状语从句指句子用作状语时，起副词作用的句
+子。
+状语——用来修饰动词、形容词或副词。一般表示行为发生的时间、地点、目的、方式、程度等意义，常由副词、介词短语、不定式或相当于副词的词语或短语来表示。状语一般放在句末，但有的可以放在句首、句中。
+例：He did it carefully.（副词carefully作状语）
+1)时间状语
+when、as、while、before、as soon as/once/directly/the instant、
+hardly...when/no sooner...than、since、till/until、whenever/each
+time/every time
+2)地点状语
+where、wherever
+3)原因状语
+because,as,since,now(that),seeing(that),in(that)
+4)目的状语
+in order that,so (that),in case/for fear (that)/lest
+5)结果状语
+so that,so...that,such...that
+6)条件状语
+if,unless,if only,as/so long as,provided (that)/providing (that)
+7)让步状语
+although/though,even if,even though,much as,while,whatever/no matter
+what,whichever/no matter which,whoever/no matter who,whereverno matter
+where,however/no matter how,whenever/no matter when,no matter)
+whether...or,as
+8)方式状语
+as,as if/as though
+9)比较状语
+as...as,not so/as...as,than,the..., the...
+
+* 句子（从说话人说话的目的看）
+a)陈述句(declarative sentence)用来叙述一件事，如：
+I saw him yesterday.昨天我看见他了。
+
+b)疑问句(interrogative sentence)用来提出疑问，如：
+Did you see him yesterday?你昨天见到他了吗?
+
+常用的疑问代词有what,which,who,whom,whose,疑问副词有when,where,why和
+how等。
+
+c)祈使句(imperative sentence)表示请求、命令等，如：
+Please come in.请进来。
+
+d)感叹句(exclamatory sentence)表示喜怒等各种情感，如：
+What a beautiful voice she has!她嗓子多好啊!
+
+感叹句
+what + adj. + n. + 主语 + 谓语！
+What an interesting play (it is)!
+
+* 词和句子成分的关系
+主语：名词和代词
+Beijing is the capital of our country.北京是我国的首都。(名词Beijing作主语)
+She is fond of sports.她爱好运动。(代词She作主语)
+
+谓语动词：动词
+My brother rides. his bicycle to work.我哥哥骑自行车上班。(动词rides作谓语动词)
+
+表语：名词、代词和形容词
+His father is a doctor.他父亲是个医生。(名词doctor作表语)
+The lesson is easy and Short.这课书又容易又短。(形容词easy和short作表语)
+That classroom is ours，那个教室是我们的。(代词ours作表语)
+
+宾语：名词和代词
+I love music.我热爱音乐。(名词music作宾语)
+The medicine is good for her.这药对她有效。(代词her作宾语)
+
+定语：形容词
+Li Hong is an excellent teacher.李红是一位好老师。(形容词excellent作定语)
+
+状语：副词
+Our monitor does well in English.我们班长英语学得好。(副词well作状语)
+* 短语、从句和句子
+** 短语(phrase)
+具有一定意义但不构成从句或句子的一组词，叫做短语。短语在句子里可以单独作为一个句子成分。短语的种类很多，但本书只用下列几个短语名称：
+a)不定式短语(infinitive phrase)如He 1ikes to read newspapers after
+lunch(他喜欢在午饭后读报)中的to read newspapers after lunch。
+
+b)动名词短语(gerundial phrase)如：
+Staying indoors all day is unhealthy(整天呆在家里不利于健康)中的staymg indoors all day。
+
+c)分词短语(participial phrase)如：
+I saw many people walking along the lake(我看见许多人在湖边散步)中的walking along the lake。
+
+d)介词短语(prepositional phrase)如：
+He came by bus(他乘公共汽车来)中的by bus。
+
+** 从句(clause)
+内含主语部分和谓语部分，表达一定的概念，但不成为一个独立句子的一组词，叫做从句。从句在句子里可以作为一个句子成分。
+
+** 句子(sentence)
+内含主语部分和谓语部分，有比较完整的意义的一组词，叫做句子。
+
+* 词序
+词序就是词或句子成分在句子中的排列顺序。英语里的词和句子成分在句子里的位置比较固定。现将句子成分和虚词在陈述句中的一般位置举例说明如下：
+1)主语的位置 在陈述句基本结构的最前面。如：
+We help each other.我们互相帮助。
+
+2)谓语动词的位置 在主语之后。如：
+We go to school every day.我们每天上学。
+
+3)表语的位置 在连系动词之后。如：
+It's fine today.今天天气很好。
+
+4)宾语的位置 在及物动词或介词之后。如：
+I like this place.我喜欢这个地方。(及物动词的宾语的位置)
+There are many trees in this place.这地方有许多树。(介词的宾语的位置)
+
+5)定语的位置 单词作定语，一般放在被修饰语的前面，短语和从句作定语则放在被修饰语的后面。如：
+The school library has many books on agriculture.校图书馆有许多关于农业的书。(many和on agriculture，都修饰books，many在books的前面，on agriculture则在它的后面)
+
+6)状语的位置 修饰形容词或副词的状语放在被修饰语之前；修饰动词的状语有的放在动词之前，有的放在动词之后。如动词有宾语，状语一般须放在宾语之后。如：
+The Summer Palace is very beautiful.颐和园非常美丽。(very为状语，修饰形容词beautiful，放在beautiful之前)
+I know him well.我十分了解他。(well为状语，修饰动词
+know，放在know之后)
+The students often go on a picnic.这些学生经常出去野餐。
+(often为状语，修饰动词go，放在它的前面)
+We take exercise every day.我们每天都运动。(every day为状语，修饰动词take，在宾语exercise之后)
+
+7)冠词的位置 冠词在名词之前。如：
+I met a friend at the bus-stop.我在公共汽车站遇到一位朋友。
+
+8)介词的位置 介词一般也放在名词或代词之前。如：
+There is a map of China on the wall.墙上有一幅中国地图。
+
+9)连词的位置 连词一般放在同类的词、短语或从句之间。如：
+They worked quickly and efficiently.他们工作速度快，效率高。
+He works just as hard as everyone else although he is over sixty.他尽管六十多岁了，仍和大家一样努力工作。
+
+10)感叹词的位置 感叹词常放在句子最前面。如：
+Oh，it's you!啊，是你呀!
+
+* 
+特殊疑问句用的是疑问代词、副词，从句（名词性从句，定语从句，状语从句）
+用的是从属连词（连接代词，连接副词）
